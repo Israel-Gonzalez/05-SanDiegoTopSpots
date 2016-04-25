@@ -1,0 +1,13 @@
+button {
+	color: white;
+	background-color: #1D4E89;
+	border-radius: 5px;
+	width: 175px;
+	padding: 10px;
+	border: none;
+	margin: 15px;
+}
+th {
+	text-align: left;
+	font-size: 20px;
+}
